@@ -319,12 +319,12 @@
     "curseForgeHash": 4160167965,
     "modrinthHash": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
   },
-  "citadel-2.6.2-1.20.1.jar": {
-    "jarName": "citadel-2.6.2-1.20.1.jar",
+  "citadel-2.6.3-1.20.1.jar": {
+    "jarName": "citadel-2.6.3-1.20.1.jar",
     "modId": "citadel",
-    "version": "2.6.2",
-    "curseForgeHash": 633471506,
-    "modrinthHash": "06866f4005d3f6ba63ac01f715b352842d809bbd"
+    "version": "2.6.3",
+    "curseForgeHash": 1762571121,
+    "modrinthHash": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316"
   },
   "cloth-config-11.1.136-forge.jar": {
     "jarName": "cloth-config-11.1.136-forge.jar",
@@ -520,12 +520,12 @@
     "curseForgeHash": 4225744846,
     "modrinthHash": "12f95fa85c62123140d1962702a97a3bb746bbf5"
   },
-  "dragonlib-forge-1.20.1-beta-3.0.14.jar": {
-    "jarName": "dragonlib-forge-1.20.1-beta-3.0.14.jar",
+  "dragonlib-forge-1.20.1-beta-3.0.16.jar": {
+    "jarName": "dragonlib-forge-1.20.1-beta-3.0.16.jar",
     "modId": "dragonlib",
-    "version": "1.20.1-beta-3.0.14",
-    "curseForgeHash": 1831620746,
-    "modrinthHash": "c37d512f9b5527d9f569d81ac60a4af98be33a94"
+    "version": "1.20.1-beta-3.0.16",
+    "curseForgeHash": 887322370,
+    "modrinthHash": "72149231c1e1962dafbd6e62de309cb290643ccd"
   },
   "dummmmmmy-1.20-2.0.9.jar": {
     "jarName": "dummmmmmy-1.20-2.0.9.jar",
