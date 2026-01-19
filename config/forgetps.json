@@ -1,0 +1,12 @@
+{
+  "tabHeader": "Hello, %playername%!",
+  "enableNicknameColorChange": true,
+  "customDimensions": {
+    "ae2:spatial_storage": "WHITE",
+    "minecraft:overworld": "GREEN",
+    "minecraft:the_nether": "RED",
+    "undergarden:undergarden": "DARK_GREEN",
+    "minecraft:the_end": "LIGHT_PURPLE"
+  },
+  "tabFooter": "TPS: %tps% | Ping: %ping% | MSPT: %mspt%"
+}
