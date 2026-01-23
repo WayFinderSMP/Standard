@@ -8,7 +8,7 @@
   "fpsDisplayMargin": 12,
   "fpsDisplayVMargin": 12,
   "fpsDisplayShadow": false,
-  "fog": true,
+  "fog": false,
   "blueBand": true,
   "customFog": true,
   "fogStart": 0,

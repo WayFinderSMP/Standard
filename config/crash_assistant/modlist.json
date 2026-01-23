@@ -25,13 +25,6 @@
     "curseForgeHash": 640818792,
     "modrinthHash": "0f37cb9ef6f329b7b493c344def711b3de2c48da"
   },
-  "ad_astra-forge-1.20.1-1.15.20.jar": {
-    "jarName": "ad_astra-forge-1.20.1-1.15.20.jar",
-    "modId": "ad_astra",
-    "version": "1.15.20",
-    "curseForgeHash": 2713479490,
-    "modrinthHash": "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
-  },
   "addonslib-1.20.1-1.7.jar": {
     "jarName": "addonslib-1.20.1-1.7.jar",
     "modId": "addonslib",
@@ -771,12 +764,12 @@
     "curseForgeHash": 380347176,
     "modrinthHash": "740c0feaab75455f32df7e137389f77c83fb490c"
   },
-  "fzzy_config-0.7.4+1.20.1+forge.jar": {
-    "jarName": "fzzy_config-0.7.4+1.20.1+forge.jar",
+  "fzzy_config-0.7.5+1.20.1+forge.jar": {
+    "jarName": "fzzy_config-0.7.5+1.20.1+forge.jar",
     "modId": "fzzy_config",
-    "version": "0.7.4+1.20.1+forge",
-    "curseForgeHash": 4069840182,
-    "modrinthHash": "b0213984f7591c3d1ec4ab5eebd87c605728d451"
+    "version": "0.7.5+1.20.1+forge",
+    "curseForgeHash": 1765843012,
+    "modrinthHash": "7e890f8b527ccb4523fed54a2864549a53f65fed"
   },
   "geckolib-forge-1.20.1-4.8.2.jar": {
     "jarName": "geckolib-forge-1.20.1-4.8.2.jar",
@@ -1070,12 +1063,12 @@
     "curseForgeHash": 544857138,
     "modrinthHash": "aa21e83867b990620935e11cd628e21b4dca348c"
   },
-  "mebahel-creatures-draugr-1.4.3-fabric-1.20.1.jar": {
-    "jarName": "mebahel-creatures-draugr-1.4.3-fabric-1.20.1.jar",
+  "mebahel-creatures-draugr-1.4.4-fabric-1.20.1.jar": {
+    "jarName": "mebahel-creatures-draugr-1.4.4-fabric-1.20.1.jar",
     "modId": "mebahelcreaturesdraugr",
-    "version": "1.4.3-fabric-1.20.1",
-    "curseForgeHash": 1001429917,
-    "modrinthHash": "27429e1fa0beed70795f4317c2d0316aaca55a6c"
+    "version": "1.4.4-fabric-1.20.1",
+    "curseForgeHash": 3886063485,
+    "modrinthHash": "450d277a77fcf127114bcadaa38c31ff55ef6846"
   },
   "memoryleakfix-forge-1.17+-1.1.5.jar": {
     "jarName": "memoryleakfix-forge-1.17+-1.1.5.jar",
@@ -1322,12 +1315,12 @@
     "curseForgeHash": 4227743239,
     "modrinthHash": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
   },
-  "Resourcify (1.20.1-forge)-1.7.5.jar": {
-    "jarName": "Resourcify (1.20.1-forge)-1.7.5.jar",
+  "Resourcify (1.20.1-forge)-1.8.0.jar": {
+    "jarName": "Resourcify (1.20.1-forge)-1.8.0.jar",
     "modId": "resourcify",
-    "version": "1.7.5",
-    "curseForgeHash": 2060212384,
-    "modrinthHash": "dcf46761218e0dd19a035323ebc17edd62d3ce24"
+    "version": "1.8.0",
+    "curseForgeHash": 3018126662,
+    "modrinthHash": "94957319053fa5731b6d8bad24500fd29ce5b8a3"
   },
   "rhino-forge-2001.2.3-build.10.jar": {
     "jarName": "rhino-forge-2001.2.3-build.10.jar",
@@ -1391,13 +1384,6 @@
     "version": "1.56.0-1.20.1",
     "curseForgeHash": 3196160906,
     "modrinthHash": "ff801e939da0f9afc2d96cce4375d8c4bb368533"
-  },
-  "skinlayers3d-forge-1.10.1-mc1.20.1.jar": {
-    "jarName": "skinlayers3d-forge-1.10.1-mc1.20.1.jar",
-    "modId": "skinlayers3d",
-    "version": "1.10.1",
-    "curseForgeHash": 262111728,
-    "modrinthHash": "896aed39ccc8ecf13936b0b60c9fd55a92a18a6b"
   },
   "SkyLands-0.6.1.jar": {
     "jarName": "SkyLands-0.6.1.jar",
