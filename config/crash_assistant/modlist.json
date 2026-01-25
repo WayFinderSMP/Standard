@@ -25,6 +25,20 @@
     "curseForgeHash": 640818792,
     "modrinthHash": "0f37cb9ef6f329b7b493c344def711b3de2c48da"
   },
+  "Ad-Astra-Giselle-Addon-forge-1.20.1-6.20.jar": {
+    "jarName": "Ad-Astra-Giselle-Addon-forge-1.20.1-6.20.jar",
+    "modId": "ad_astra_giselle_addon",
+    "version": "6.20",
+    "curseForgeHash": 2593954164,
+    "modrinthHash": "ce565f1dca2cb257b5ff089fc59755c714762424"
+  },
+  "ad_astra-forge-1.20.1-1.15.20.jar": {
+    "jarName": "ad_astra-forge-1.20.1-1.15.20.jar",
+    "modId": "ad_astra",
+    "version": "1.15.20",
+    "curseForgeHash": 2713479490,
+    "modrinthHash": "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
+  },
   "addonslib-1.20.1-1.7.jar": {
     "jarName": "addonslib-1.20.1-1.7.jar",
     "modId": "addonslib",
@@ -32,12 +46,12 @@
     "curseForgeHash": 350641165,
     "modrinthHash": "bbb64c2bb543cb300920e7f17c05da1462fc5fcb"
   },
-  "AdvancedLootInfo-forge-1.20.1-1.6.4.jar": {
-    "jarName": "AdvancedLootInfo-forge-1.20.1-1.6.4.jar",
+  "AdvancedLootInfo-forge-1.20.1-1.7.0.jar": {
+    "jarName": "AdvancedLootInfo-forge-1.20.1-1.7.0.jar",
     "modId": "ali",
-    "version": "1.6.4",
-    "curseForgeHash": 85518937,
-    "modrinthHash": "af8e43cdb3d77f0d006769e6577b62d3eab9a85b"
+    "version": "1.7.0",
+    "curseForgeHash": 2613876051,
+    "modrinthHash": "f8df00d9291f3e8e4346580f41e034644cbaeb08"
   },
   "advancednetherite-forge-2.1.3-1.20.1.jar": {
     "jarName": "advancednetherite-forge-2.1.3-1.20.1.jar",
@@ -513,12 +527,12 @@
     "curseForgeHash": 4225744846,
     "modrinthHash": "12f95fa85c62123140d1962702a97a3bb746bbf5"
   },
-  "dragonlib-forge-1.20.1-beta-3.0.16.jar": {
-    "jarName": "dragonlib-forge-1.20.1-beta-3.0.16.jar",
+  "dragonlib-forge-1.20.1-beta-3.0.19.jar": {
+    "jarName": "dragonlib-forge-1.20.1-beta-3.0.19.jar",
     "modId": "dragonlib",
-    "version": "1.20.1-beta-3.0.16",
-    "curseForgeHash": 887322370,
-    "modrinthHash": "72149231c1e1962dafbd6e62de309cb290643ccd"
+    "version": "1.20.1-beta-3.0.19",
+    "curseForgeHash": 1722498083,
+    "modrinthHash": "ce3204f8f59f3870fa9c0a596bc04432c0489831"
   },
   "dummmmmmy-1.20-2.0.9.jar": {
     "jarName": "dummmmmmy-1.20-2.0.9.jar",
@@ -1091,12 +1105,12 @@
     "curseForgeHash": 2632512244,
     "modrinthHash": "f1c9f05bcc424348efe11e7d95c0a6875ba9684f"
   },
-  "modernfix-forge-5.25.2+mc1.20.1.jar": {
-    "jarName": "modernfix-forge-5.25.2+mc1.20.1.jar",
+  "modernfix-forge-5.26.2+mc1.20.1.jar": {
+    "jarName": "modernfix-forge-5.26.2+mc1.20.1.jar",
     "modId": "modernfix",
-    "version": "5.25.2+mc1.20.1",
-    "curseForgeHash": 3074548209,
-    "modrinthHash": "4069534174e618393f0c14d9dc61ac27a04bb992"
+    "version": "5.26.2+mc1.20.1",
+    "curseForgeHash": 2785638273,
+    "modrinthHash": "0adfc122e9f632d8847688c4c3ed20a1af182afa"
   },
   "modonomicon-1.20.1-forge-1.79.3.jar": {
     "jarName": "modonomicon-1.20.1-forge-1.79.3.jar",
@@ -1210,6 +1224,13 @@
     "curseForgeHash": 516527841,
     "modrinthHash": "984f774e71790deaec674c7587bd24e0711871b2"
   },
+  "open-parties-and-claims-forge-1.20.1-0.25.8.jar": {
+    "jarName": "open-parties-and-claims-forge-1.20.1-0.25.8.jar",
+    "modId": "openpartiesandclaims",
+    "version": "0.25.8",
+    "curseForgeHash": 3106366482,
+    "modrinthHash": "ea87f074e35e6ccf03a73b42804f3bd3f628a4eb"
+  },
   "packetfixer-3.3.1-1.18-1.20.4-merged.jar": {
     "jarName": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
     "modId": "packetfixer",
@@ -1224,12 +1245,12 @@
     "curseForgeHash": 3571975239,
     "modrinthHash": "e91d2e2f251375d647d592b670ea6f310c2554eb"
   },
-  "photon-forge-1.20.1-1.1.16.jar": {
-    "jarName": "photon-forge-1.20.1-1.1.16.jar",
+  "photon-forge-1.20.1-1.1.17.jar": {
+    "jarName": "photon-forge-1.20.1-1.1.17.jar",
     "modId": "photon",
-    "version": "1.1.16",
-    "curseForgeHash": 703519432,
-    "modrinthHash": "c738ac000a734045bd01f888112ba00635140fe5"
+    "version": "1.1.17",
+    "curseForgeHash": 3436743696,
+    "modrinthHash": "184dc6f77da9382f0d70e89c4d47364230fb63c7"
   },
   "PickUpNotifier-v8.0.0-1.20.1-Forge.jar": {
     "jarName": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
