@@ -99,17 +99,6 @@
         "value": 100
       }
     },
-    "obscure_api:regeneration": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100000,
-        "value": 100000
-      }
-    },
     "irons_spellbooks:lightning_magic_resist": {
       "enabled": false,
       "min": {
@@ -130,6 +119,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "obscure_api:regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100000,
+        "value": 100000
       }
     },
     "minecraft:generic.luck": {
@@ -209,6 +209,17 @@
         "value": 100
       }
     },
+    "vminus:jump_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "obscure_api:magic_damage": {
       "enabled": false,
       "min": {
@@ -220,18 +231,18 @@
         "value": 100000
       }
     },
-    "irons_spellbooks:casting_movespeed": {
+    "combatroll:distance": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": 1,
+        "value": 1
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 24,
+        "value": 24
       }
     },
-    "obscure_api:healing_power": {
+    "irons_spellbooks:casting_movespeed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -247,6 +258,17 @@
       "min": {
         "default": -100,
         "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:healing_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
@@ -273,6 +295,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "combatroll:recharge": {
+      "enabled": false,
+      "min": {
+        "default": 0.1,
+        "value": 0.1
+      },
+      "max": {
+        "default": 200,
+        "value": 200
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -330,15 +363,15 @@
         "value": 1000000
       }
     },
-    "obscure_api:accuracy": {
+    "vminus:mob_detection_range": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 0,
+        "value": 0
       }
     },
     "irons_spellbooks:fire_magic_resist": {
@@ -361,6 +394,28 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "obscure_api:accuracy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "vminus:magic_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:ender_spell_power": {
@@ -407,17 +462,6 @@
         "value": 100
       }
     },
-    "block_factorys_bosses:movement_recovery": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 5,
-        "value": 5
-      }
-    },
     "irons_spellbooks:evocation_magic_resist": {
       "enabled": false,
       "min": {
@@ -427,6 +471,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "block_factorys_bosses:movement_recovery": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 5
       }
     },
     "forge:block_reach": {
@@ -449,6 +504,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "vminus:width": {
+      "enabled": false,
+      "min": {
+        "default": 0.2,
+        "value": 0.2
+      },
+      "max": {
+        "default": 5,
+        "value": 5
       }
     },
     "obscure_api:parry": {
@@ -495,6 +561,17 @@
         "value": 1024
       }
     },
+    "vminus:height": {
+      "enabled": false,
+      "min": {
+        "default": 0.2,
+        "value": 0.2
+      },
+      "max": {
+        "default": 5,
+        "value": 5
+      }
+    },
     "irons_spellbooks:ender_magic_resist": {
       "enabled": false,
       "min": {
@@ -539,6 +616,17 @@
         "value": 100
       }
     },
+    "vminus:protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "obscure_api:critical_hit": {
       "enabled": false,
       "min": {
@@ -548,6 +636,28 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "vminus:blunt_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "vminus:fall_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "block_factorys_bosses:burning_stability": {
@@ -570,6 +680,28 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "vminus:fire_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "vminus:mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:lightning_spell_power": {
@@ -605,22 +737,22 @@
         "value": 1
       }
     },
-    "obscure_api:critical_damage": {
+    "irons_spellbooks:spell_resist": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
         "value": 100
       }
     },
-    "irons_spellbooks:spell_resist": {
+    "obscure_api:critical_damage": {
       "enabled": false,
       "min": {
-        "default": -100,
-        "value": -100
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
@@ -654,6 +786,28 @@
       "min": {
         "default": -100,
         "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "combatroll:count": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 20
+      }
+    },
+    "vminus:blast_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,

@@ -65,6 +65,6 @@
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
-  "enableZoom": true,
+  "enableZoom": false,
   "maxZoom": 50.0
 }
