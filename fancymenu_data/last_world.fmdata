@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/ryanw/AppData/Roaming/ModrinthApp/profiles/WayFinder-SMP-Standard/saves/New World
-}
-
