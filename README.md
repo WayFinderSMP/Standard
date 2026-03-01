@@ -1,5 +1,18 @@
-# WayFinder SMP Standard
+# The Official WayFinder Standard modpack! The pack filled of adventure and survival.
 
-Welcome to the official Standard modpack for the **WayFinder SMP**. This is the official Github page for the pack here contains the full list of mods, resource packs & shaders that it in the pack.
+The WayFinder SMP is set on the Planet Kryadon a mythical place of magic, dragons & powerful weaponry that is out of the world in terms of ordinary 👀.
 
-Due to file sizes **L_Ender's Cataclysm** was not added to this repo. Please install all packs via our changelog channel in the Discord.
+## Features
+
+🍖 More Food Options - eat a a wide range of food from sandwhiches to full meals.
+🌍 Seasons - prepare for winter & check your crops.
+🏡 Create Nations - explore & create a nation with ether yourself or with others
+♟️ Fight Bosses - over 10+ unique boss fights to defeat throughout the world
+🎒 Backpacks - store goods in drawers or use portable backpacks
+✨ Decorate your Builds! - various blocks from Chipped & Framed Blocks
+
+## WayFinder Modpacks
+
+You might be asking yourself "What's the difference between Standard & Lite?"
+
+WayFinder Lite is a modpack containing what standard has minus the visual mods.
